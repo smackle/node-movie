@@ -1,7 +1,7 @@
 "use strict";
 const fetch = require("node-fetch");
 
-const BASE_URL = `http://www.omdbapi.com/?apikey=6547d8e&`;
+const BASE_URL = `http://www.omdbapi.com/?apikey=a964c010&`;
 
 module.exports = async (title, cb) => {
   if (typeof title != "string") {
