@@ -1,5 +1,5 @@
 {
-  "name": "node-movie",
+  "name": "@smackle/omdb-movie",
   "version": "3.0.0",
   "description": "Node imdb API",
   "main": "index.js",
